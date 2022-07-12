@@ -13,7 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+      - name: Checkout Tutorial
+        uses: actions/checkout@v3
+        with:
+          repository: jupyter-widgets/tutorial
+          path: content
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
@@ -23,7 +28,6 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Build the JupyterLite site
         run: |
-          cp README.md content
           jupyter lite build --contents content
       - name: Upload (dist)
         uses: actions/upload-artifact@v2
@@ -41,11 +45,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Checkout Tutorial
-        uses: actions/checkout@v3
-        with:
-          repository: jupyter-widgets/tutorial
-          path: content
       - uses: actions/download-artifact@v2
         with:
           name: jupyterlite-demo-dist-${{ github.run_number }}
