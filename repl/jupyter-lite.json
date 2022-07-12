@@ -1,9 +1,7 @@
 {
   "jupyter-config-data": {
     "disabledExtensions": [
-      "@jupyterlab/drawio-extension",
       "jupyterlab-kernel-spy",
-      "jupyterlab-tour",
       "@jupyterlite/javascript-kernel-extension"
     ],
     "settingsUrl": "../build/schemas",

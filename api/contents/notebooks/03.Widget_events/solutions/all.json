@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.513699Z",
+      "created": "2022-07-12T14:47:35.660556Z",
       "format": null,
-      "last_modified": "2022-07-12T14:35:34.037430Z",
+      "last_modified": "2022-07-12T14:46:25.255739Z",
       "mimetype": "text/x-python",
       "name": "observe-reverse.py",
       "path": "notebooks/03.Widget_events/solutions/observe-reverse.py",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.513699Z",
+      "created": "2022-07-12T14:47:35.660556Z",
       "format": null,
-      "last_modified": "2022-07-12T14:35:34.037430Z",
+      "last_modified": "2022-07-12T14:46:25.255739Z",
       "mimetype": "text/x-python",
       "name": "temperature-link.py",
       "path": "notebooks/03.Widget_events/solutions/temperature-link.py",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.513699Z",
+      "created": "2022-07-12T14:47:35.660556Z",
       "format": null,
-      "last_modified": "2022-07-12T14:35:34.037430Z",
+      "last_modified": "2022-07-12T14:46:25.255739Z",
       "mimetype": "text/x-python",
       "name": "bad-pass-pass1-widgets.py",
       "path": "notebooks/03.Widget_events/solutions/bad-pass-pass1-widgets.py",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.513699Z",
+      "created": "2022-07-12T14:47:35.660556Z",
       "format": null,
-      "last_modified": "2022-07-12T14:35:34.037430Z",
+      "last_modified": "2022-07-12T14:46:25.255739Z",
       "mimetype": "text/x-python",
       "name": "bad-pass-pass1-passgen.py",
       "path": "notebooks/03.Widget_events/solutions/bad-pass-pass1-passgen.py",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.513699Z",
+      "created": "2022-07-12T14:47:35.660556Z",
       "format": null,
-      "last_modified": "2022-07-12T14:35:34.037430Z",
+      "last_modified": "2022-07-12T14:46:25.255739Z",
       "mimetype": "text/x-python",
       "name": "bad-pass-pass1-observe.py",
       "path": "notebooks/03.Widget_events/solutions/bad-pass-pass1-observe.py",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-12T14:36:59.513699Z",
+  "created": "2022-07-12T14:47:35.660556Z",
   "format": "json",
-  "last_modified": "2022-07-12T14:36:59.513699Z",
+  "last_modified": "2022-07-12T14:47:35.660556Z",
   "mimetype": null,
   "name": "solutions",
   "path": "notebooks/03.Widget_events/solutions",

@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.509699Z",
+      "created": "2022-07-12T14:47:35.656556Z",
       "format": null,
-      "last_modified": "2022-07-12T14:35:34.037430Z",
+      "last_modified": "2022-07-12T14:46:25.255739Z",
       "mimetype": "text/x-python",
       "name": "widget_org.py",
       "path": "notebooks/02.Widget_overview/03.WidgetList/widget_org.py",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.505699Z",
+      "created": "2022-07-12T14:47:35.652556Z",
       "format": null,
-      "last_modified": "2022-07-12T14:35:34.037430Z",
+      "last_modified": "2022-07-12T14:46:25.255739Z",
       "mimetype": null,
       "name": "03.01-more-on-output-widget.ipynb",
       "path": "notebooks/02.Widget_overview/03.WidgetList/03.01-more-on-output-widget.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.505699Z",
+      "created": "2022-07-12T14:47:35.656556Z",
       "format": null,
-      "last_modified": "2022-07-12T14:36:59.505699Z",
+      "last_modified": "2022-07-12T14:47:35.656556Z",
       "mimetype": null,
       "name": "solutions",
       "path": "notebooks/02.Widget_overview/03.WidgetList/solutions",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.505699Z",
+      "created": "2022-07-12T14:47:35.652556Z",
       "format": null,
-      "last_modified": "2022-07-12T14:35:34.037430Z",
+      "last_modified": "2022-07-12T14:46:25.255739Z",
       "mimetype": null,
       "name": "03.00-widget-list.ipynb",
       "path": "notebooks/02.Widget_overview/03.WidgetList/03.00-widget-list.ipynb",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-12T14:36:59.509699Z",
+  "created": "2022-07-12T14:47:35.656556Z",
   "format": "json",
-  "last_modified": "2022-07-12T14:36:59.509699Z",
+  "last_modified": "2022-07-12T14:47:35.656556Z",
   "mimetype": null,
   "name": "03.WidgetList",
   "path": "notebooks/02.Widget_overview/03.WidgetList",

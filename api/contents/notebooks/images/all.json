@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.573699Z",
+      "created": "2022-07-12T14:47:35.712557Z",
       "format": null,
-      "last_modified": "2022-07-12T14:35:34.109430Z",
+      "last_modified": "2022-07-12T14:46:25.307717Z",
       "mimetype": "image/gif",
       "name": "plot-as-control.gif",
       "path": "notebooks/images/plot-as-control.gif",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.573699Z",
+      "created": "2022-07-12T14:47:35.708557Z",
       "format": null,
-      "last_modified": "2022-07-12T14:35:34.097430Z",
+      "last_modified": "2022-07-12T14:46:25.299721Z",
       "mimetype": "image/png",
       "name": "covid-dash2.png",
       "path": "notebooks/images/covid-dash2.png",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.569699Z",
+      "created": "2022-07-12T14:47:35.708557Z",
       "format": null,
-      "last_modified": "2022-07-12T14:35:34.097430Z",
+      "last_modified": "2022-07-12T14:46:25.299721Z",
       "mimetype": "image/png",
       "name": "covid-dash1.png",
       "path": "notebooks/images/covid-dash1.png",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.569699Z",
+      "created": "2022-07-12T14:47:35.704557Z",
       "format": null,
-      "last_modified": "2022-07-12T14:35:34.093430Z",
+      "last_modified": "2022-07-12T14:46:25.299721Z",
       "mimetype": "image/png",
       "name": "Binary_Star_Sim.png",
       "path": "notebooks/images/Binary_Star_Sim.png",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-12T14:36:59.569699Z",
+      "created": "2022-07-12T14:47:35.708557Z",
       "format": null,
-      "last_modified": "2022-07-12T14:35:34.093430Z",
+      "last_modified": "2022-07-12T14:46:25.299721Z",
       "mimetype": "image/png",
       "name": "WidgetArch.png",
       "path": "notebooks/images/WidgetArch.png",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-12T14:36:59.573699Z",
+  "created": "2022-07-12T14:47:35.708557Z",
   "format": "json",
-  "last_modified": "2022-07-12T14:36:59.573699Z",
+  "last_modified": "2022-07-12T14:47:35.708557Z",
   "mimetype": null,
   "name": "images",
   "path": "notebooks/images",
