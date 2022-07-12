@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-12T14:16:13.684614Z",
+      "created": "2022-07-12T14:36:59.557699Z",
       "format": null,
-      "last_modified": "2022-07-12T14:14:52.996112Z",
+      "last_modified": "2022-07-12T14:35:34.085430Z",
       "mimetype": null,
       "name": "08.00-ipywidgets_8.ipynb",
       "path": "notebooks/08.Ipywidgets_8/08.00-ipywidgets_8.ipynb",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-12T14:16:13.684614Z",
+  "created": "2022-07-12T14:36:59.557699Z",
   "format": "json",
-  "last_modified": "2022-07-12T14:16:13.684614Z",
+  "last_modified": "2022-07-12T14:36:59.557699Z",
   "mimetype": null,
   "name": "08.Ipywidgets_8",
   "path": "notebooks/08.Ipywidgets_8",

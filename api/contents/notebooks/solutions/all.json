@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-12T14:16:13.720616Z",
+      "created": "2022-07-12T14:36:59.589699Z",
       "format": null,
-      "last_modified": "2022-07-12T14:16:13.720616Z",
+      "last_modified": "2022-07-12T14:36:59.589699Z",
       "mimetype": null,
       "name": "intro",
       "path": "notebooks/solutions/intro",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-12T14:16:13.720616Z",
+  "created": "2022-07-12T14:36:59.589699Z",
   "format": "json",
-  "last_modified": "2022-07-12T14:16:13.720616Z",
+  "last_modified": "2022-07-12T14:36:59.589699Z",
   "mimetype": null,
   "name": "solutions",
   "path": "notebooks/solutions",

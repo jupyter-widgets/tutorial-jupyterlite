@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-12T14:16:13.660613Z",
+      "created": "2022-07-12T14:36:59.533699Z",
       "format": null,
-      "last_modified": "2022-07-12T14:16:13.660613Z",
+      "last_modified": "2022-07-12T14:36:59.533699Z",
       "mimetype": null,
       "name": "bqplot-as-control",
       "path": "notebooks/06.More_widget_libraries/extras/extra_examples/solutions/bqplot-as-control",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-12T14:16:13.660613Z",
+  "created": "2022-07-12T14:36:59.533699Z",
   "format": "json",
-  "last_modified": "2022-07-12T14:16:13.660613Z",
+  "last_modified": "2022-07-12T14:36:59.533699Z",
   "mimetype": null,
   "name": "solutions",
   "path": "notebooks/06.More_widget_libraries/extras/extra_examples/solutions",
