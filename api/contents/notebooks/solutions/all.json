@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.720616Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:16:13.720616Z",
+      "mimetype": null,
+      "name": "intro",
+      "path": "notebooks/solutions/intro",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-12T14:16:13.720616Z",
+  "format": "json",
+  "last_modified": "2022-07-12T14:16:13.720616Z",
+  "mimetype": null,
+  "name": "solutions",
+  "path": "notebooks/solutions",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

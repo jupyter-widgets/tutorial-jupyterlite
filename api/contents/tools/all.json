@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.724616Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:14:53.024113Z",
+      "mimetype": "text/x-python",
+      "name": "kernel_names.py",
+      "path": "tools/kernel_names.py",
+      "size": 2509,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.720616Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:14:53.020113Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "tools/README.md",
+      "size": 462,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.724616Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:14:53.024113Z",
+      "mimetype": "text/x-python",
+      "name": "generate_contents.py",
+      "path": "tools/generate_contents.py",
+      "size": 4964,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.724616Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:16:13.724616Z",
+      "mimetype": null,
+      "name": "licenses",
+      "path": "tools/licenses",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.724616Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:14:53.020113Z",
+      "mimetype": "text/x-python",
+      "name": "check_load_and_images.py",
+      "path": "tools/check_load_and_images.py",
+      "size": 1161,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.724616Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:14:53.020113Z",
+      "mimetype": "text/x-python",
+      "name": "dependency_finder.py",
+      "path": "tools/dependency_finder.py",
+      "size": 6706,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.720616Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:14:53.020113Z",
+      "mimetype": "text/x-python",
+      "name": "add_navigation.py",
+      "path": "tools/add_navigation.py",
+      "size": 1947,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.724616Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:14:53.024113Z",
+      "mimetype": "text/x-python",
+      "name": "execute_notebooks.py",
+      "path": "tools/execute_notebooks.py",
+      "size": 1329,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-12T14:16:13.724616Z",
+  "format": "json",
+  "last_modified": "2022-07-12T14:16:13.724616Z",
+  "mimetype": null,
+  "name": "tools",
+  "path": "tools",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.700615Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:14:53.020113Z",
+      "mimetype": "image/gif",
+      "name": "plot-as-control.gif",
+      "path": "notebooks/images/plot-as-control.gif",
+      "size": 1421526,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.700615Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:14:53.012113Z",
+      "mimetype": "image/png",
+      "name": "covid-dash2.png",
+      "path": "notebooks/images/covid-dash2.png",
+      "size": 390215,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.696615Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:14:53.008112Z",
+      "mimetype": "image/png",
+      "name": "covid-dash1.png",
+      "path": "notebooks/images/covid-dash1.png",
+      "size": 359921,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.696615Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:14:53.008112Z",
+      "mimetype": "image/png",
+      "name": "Binary_Star_Sim.png",
+      "path": "notebooks/images/Binary_Star_Sim.png",
+      "size": 173569,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.696615Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:14:53.008112Z",
+      "mimetype": "image/png",
+      "name": "WidgetArch.png",
+      "path": "notebooks/images/WidgetArch.png",
+      "size": 23058,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-12T14:16:13.700615Z",
+  "format": "json",
+  "last_modified": "2022-07-12T14:16:13.700615Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "notebooks/images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

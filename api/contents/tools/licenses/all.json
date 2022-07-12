@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-12T14:16:13.724616Z",
+      "format": null,
+      "last_modified": "2022-07-12T14:14:53.024113Z",
+      "mimetype": null,
+      "name": "LICENSE-CODE",
+      "path": "tools/licenses/LICENSE-CODE",
+      "size": 1083,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-12T14:16:13.724616Z",
+  "format": "json",
+  "last_modified": "2022-07-12T14:16:13.724616Z",
+  "mimetype": null,
+  "name": "licenses",
+  "path": "tools/licenses",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
